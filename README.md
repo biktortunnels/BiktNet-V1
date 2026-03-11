@@ -1,8 +1,6 @@
-# BiktNet-V1
+# BiktorTunnels v1.2 – LAN Peer-to-Peer Chat
 
-# BiktorTunnels v0.2 – LAN Peer-to-Peer Chat
-
-**Version:** 0.2 (Experimental)  
+**Version:** 1.2 (Experimental)  
 **Author:** Biktor  
 **License:** Biktor License (BIK License v1.0)  
 
